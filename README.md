@@ -48,7 +48,8 @@ engse203-lab01/
 ## 📝 หลักฐานผลลัพธ์ (Execution Result)
 โปรแกรมสามารถทำงานผ่านระบบ npm script ได้อย่างถูกต้อง โดยทำการประมวลผลและแสดงผลลัพธ์ข้อมูลผู้จัดทำ, ระบบปฏิบัติการที่ใช้จริง รวมถึงเวอร์ชันของ Node.js ในเครื่องได้ถูกต้องตามข้อกำหนดของใบงาน ดังนี้:
 * **ข้อมูลที่แสดง:** Hello ธนารักษ์ ชุมสวัสดิ์ (68543210018-6) | OS: darwin | Node: <version>
-
+![alt text](resultlab1_1.png)
+![alt text](resultlab1_2.png)
 ## 🔍 ปัญหาที่พบและวิธีแก้ไข (Troubleshooting)
 * **ปัญหาที่พบ:** เกิดข้อผิดพลาด fatal: not a git repository (or any of the parent directories): .git เมื่อพยายามใช้คำสั่งผูก Remote (git remote add) และการจัดการ Branch
 * **สาเหตุ:** ตัวโฟลเดอร์โปรเจกต์ยังไม่ได้ถูกริเริ่มสร้างระบบ Local Git Repository ขึ้นมาในเครื่อง
